@@ -15,7 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-**Note**: *Rename the project to `health_care_flutter` before launching*
+**Note**: *Rename the project to `health_care_flutter` before launching!*
 
 ## Developed by
 
