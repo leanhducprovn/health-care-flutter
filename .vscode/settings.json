@@ -1,3 +1,6 @@
 {
-    "dart.flutterHotReloadOnSave": "always"
+    "dart.flutterHotReloadOnSave": "always",
+    "dart.flutterRunAdditionalArgs": [
+        "--no-sound-null-safety"
+    ]
 }
