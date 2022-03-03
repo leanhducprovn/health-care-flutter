@@ -2,6 +2,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'web_view_container.dart';
 import 'package:webview_flutter/webview_flutter.dart';
+import 'package:hexcolor/hexcolor.dart';
 
 
 class Home extends StatelessWidget {
@@ -14,6 +15,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+				backgroundColor: HexColor("#f56c86"),
 				title: Text("Health Care"),
 			),
       body: Column(
